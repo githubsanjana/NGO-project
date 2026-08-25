@@ -3,7 +3,7 @@
 A centralized platform that shows urgent community needs on a **live map** and a **smart matching
 algorithm** that connects volunteers to tasks based on skills and proximity.
 
-Built for a *Code for Good*-style hackathon. Runs **100% locally** — no cloud accounts, no billing.
+ Runs **100% locally** — no cloud accounts, no billing.
 
 ## Stack
 
